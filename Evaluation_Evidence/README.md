@@ -45,6 +45,8 @@ Copy the addresses for Kasei token and Kasei crwodsale which are called under th
 
 **Note:** The KaseiCoin Crowdsale contract employs additional libraries from OpenZepplin to extend the functionality of the contract by adding time restrictions, refund capablities, and a cap for the number of tokens that can be created. In my video snippet, you will notice a cap of 50 ETH being placed into the contract, indicating the maximum amount of funds wanting to be raised. The time restriction is incorporated into the crowdsale which is set to 5 minutes after executing the crowdsale contract. The contract owner has the authorization to refund users amount if and only if the time restriction on the crwodsale ends and the cap goal is not reached.
 
+https://github.com/AdwoaM/MartianToken_Crowdsale/assets/149966206/175db0b0-e82b-47ff-b633-79ed80be9a6a
+
 ## MetaMask
 
 ![contract deployment](/Images/contract_deployment.png)
