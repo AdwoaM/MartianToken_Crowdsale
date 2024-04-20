@@ -9,9 +9,9 @@
 The following tools were used to compile and deploy the program to test.
 
 * [Remix Ethereum IDE](https://remix.ethereum.org/) - Remix IDE, a no-setup tool with a GUI for compilation and developing smart contracts.
-* [MetaMask](https://metamask.io/) - A crypto wallet & gateway to blockchain apps.
+* [MetaMask](https://metamask.io/) - A wallet that serves as the gateway between the Remix IDE and the ganache blockchain.
 * [Ethereum Unit Converter](https://eth-converter.com/) - Ether to Wei unit convertor.
-* [Ganache](https://trufflesuite.com/ganache/)
+* [Ganache](https://trufflesuite.com/ganache/) - provides the accounts and ether needed to deploy and test the smart contracts
 
 
 # Goal of Project
